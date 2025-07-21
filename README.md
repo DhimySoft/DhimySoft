@@ -21,7 +21,8 @@
 🌐 Brand & Portfolio:
 - GitHub: [github.com/DhimySoft](https://github.com/DhimySoft)
 - Portfolio (coming soon): [www.dhimysoft.com](https://www.dhimysoft.com)
-- LinkedIn: [linkedin.com/in/dhimyjean] linkedin.com/in/dhimy-jean-6b716b10b
+- LinkedIn: [linkedin.com/in/dhimyjean]( linkedin.com/in/dhimy-jean-6b716b10b )
+
 
 💡 Motto: *“Turn real-world problems into working code.”*
 
