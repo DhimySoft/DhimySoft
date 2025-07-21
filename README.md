@@ -3,7 +3,7 @@
 🎓 I'm a Computer Science student based in NYC, currently building hands-on projects in **Python**, **SQL**, and **data analysis** as I work toward a future in **AI engineering**.
 
 🛠️ My core tools:
-- Programming: Python, SQL, Git, Bash
+- Programming: Python, SQL, Git
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn
 - Platforms: GitHub, VSCode, Jupyter, Streamlit
 - Databases: SQLite, PostgreSQL, MySQL
